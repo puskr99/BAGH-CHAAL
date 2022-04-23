@@ -1,0 +1,8 @@
+// Steps to run the file.
+
+
+1. Download the file BAGH-CHAAL.cpp
+
+2. Use a C/C++ compiler that supports graphics.h,dos.h..
+
+3.Boom there you go..
